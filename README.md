@@ -27,8 +27,8 @@ import (
 
 	"github.com/boltdb/bolt"
 	"github.com/gorilla/sessions"
-	"github.com/yosssi/boltstore/reaper"
-	"github.com/yosssi/boltstore/store"
+	"github.com/skynet0590/boltstore/reaper"
+	"github.com/skynet0590/boltstore/store"
 )
 
 var db *bolt.DB

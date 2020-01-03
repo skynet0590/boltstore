@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/boltdb/bolt"
-	"github.com/yosssi/boltstore/shared"
+	"github.com/skynet0590/boltstore/shared"
 )
 
 //##############//

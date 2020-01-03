@@ -3,7 +3,7 @@ package reaper
 import (
 	"time"
 
-	"github.com/yosssi/boltstore/shared"
+	"github.com/skynet0590/boltstore/shared"
 )
 
 // Options represents options for the reaper.

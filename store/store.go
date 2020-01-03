@@ -11,7 +11,7 @@ import (
 	"github.com/boltdb/bolt"
 	"github.com/gorilla/securecookie"
 	"github.com/gorilla/sessions"
-	"github.com/yosssi/boltstore/shared"
+	"github.com/skynet0590/boltstore/shared"
 )
 
 // Store represents a session store.
