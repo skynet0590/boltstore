@@ -1,6 +1,6 @@
 module github.com/skynet0590/boltstore
 
-go 1.13
+go 1.11
 
 require (
 	github.com/boltdb/bolt v1.3.1
